@@ -1,5 +1,7 @@
 > **온디바이스 AI 기반 주방 화재.연기 실시간 감지 및 Hands-Free 레시피 제어 시스템**
 >
+>  Project Period — 2026.07.29 – 2026.08.03 . Team Size: 2 members
+>
 > 2인 팀 프로젝트
 > 
 ![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white)
