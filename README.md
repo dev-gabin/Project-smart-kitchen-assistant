@@ -100,3 +100,7 @@ smart_kitchen_assistant/
 GitHub 저장소에 포함하지 않았습니다.
 
 원본 데이터는 로컬의 `data/raw_smoke_dataset/` 경로에서 관리했습니다.
+
+## 모델과 데이터 준비
+
+이 소스에는 모델 가중치와 제스처 학습 CSV가 없습니다. 사용 권한을 확인한 모델을 해당 브랜치의 설정 경로에 배치하고 호환되는 CSV를 data/gesture_train.csv에 배치하세요.
