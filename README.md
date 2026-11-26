@@ -59,3 +59,7 @@ smart_kitchen_assistant/
 ├── train_smoke_model.py       # [실행] 연기 감지 모델 학습 스크립트
 ├── main.py                    # [실행] 메인 애플리케이션 엔트리 포인트
 └── requirements.txt           # 의존성 라이브러리 목록
+
+## 모델과 데이터 준비
+
+이 소스에는 모델 가중치와 제스처 학습 CSV가 없습니다. 사용 권한을 확인한 모델을 해당 브랜치의 설정 경로에 배치하고 호환되는 CSV를 data/gesture_train.csv에 배치하세요.

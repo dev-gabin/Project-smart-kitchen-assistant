@@ -19,3 +19,29 @@ data/raw_smoke_dataset/
 
 # Training run outputs (logs, checkpoints, plots)
 runs/
+
+# Local-only files
+.env
+.env.*
+!.env.example
+config_local.*
+*.swp
+.ipynb_checkpoints/
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.map
+*.log
+dataset/
+datasets/
+wandb/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.safetensors
+*.ckpt
+*.zip
