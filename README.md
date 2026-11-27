@@ -89,13 +89,16 @@ Project-smart-kitchen-assistant/
 ## 7. 성능 비교
 
 | YOLOv8 연기 감지 평가 지표 | 결과 |
+
+<img width="2400" height="1200" alt="image" src="https://github.com/user-attachments/assets/4de8d4c6-20ef-4666-bfaf-3a52f4b22929" />
+
 |---|---:|
 | 정밀도 (Precision) | 0.87 |
 | 재현율 (Recall) | 0.83 |
 | mAP50 | 0.91 |
 | mAP50–95 | 0.63 |
 
-포트폴리오에 기록된 모델 평가 결과입니다. 최적화 전후 수치, 평가에 사용한 가중치 버전과 검증 데이터 분할, FPS와 경고 지연 시간은 확인이 필요합니다. [모델 평가 그래프](https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc)
+모델 평가 결과입니다. 최적화 전후 수치, 평가에 사용한 가중치 버전과 검증 데이터 분할, FPS와 경고 지연 시간은 확인이 필요합니다. [모델 평가 그래프](https://app.notion.com/p/gabin-dev/Gabin-Portfolio-3bf06eb7616180c983ddde0fd40d9abc)
 
 ## 8. 결과
 <img width="1047" height="778" alt="image" src="https://github.com/user-attachments/assets/64617b5e-55dd-480c-ab14-c75ad8d1ba8e" />
